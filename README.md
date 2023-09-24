@@ -9,7 +9,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ValmirSGama&count_private=true&show_icons=true&theme=tokyonight" alt="ValmirSGama github stats" />
-<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValmirSGama&layout=compact&theme=tokyonight" />
+<img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValmirSGama&layout=compact&theme=tokyonight" />
 </div>
 
 #### Skills
