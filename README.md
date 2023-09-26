@@ -8,7 +8,7 @@
 - Pronouns: ele/dele
 
 <div align="center">  
-  <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ValmirSGama&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="ValmirSGama github stats" /> 
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ValmirSGama&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="ValmirSGama github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValmirSGama&layout=compact&hide_border=true&theme=tokyonight" />
 </div>
 
