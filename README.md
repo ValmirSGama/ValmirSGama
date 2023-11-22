@@ -5,6 +5,7 @@
 ### Me chamo Valmir  👋
 
 - Atualmente Estudando Análise e Desenvolvimento de Sistemas
+- Cursando: Java Completo(Udemy)
 - Pronouns: ele/dele
 
 <div align="center">  
