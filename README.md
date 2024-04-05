@@ -13,6 +13,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValmirSGama&layout=compact&hide_border=true&theme=tokyonight" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ValmirSGama/ValmirSGama/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ValmirSGama/ValmirSGama/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ValmirSGama/ValmirSGama/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
 #### Skills
 
  <div style="display: inline_block"><br>
