@@ -4,8 +4,9 @@
 
 ### Me chamo Valmir  👋
 
-- Atualmente Estudando Análise e Desenvolvimento de Sistemas
-- Cursando: Java Completo(Udemy)
+- Fazendo o último semestre de **Análise e Desenvolvimento de Sistemas** `Unicesumar`
+- Estaginado em **DevSecOps AWS-Cloud Pratictioner** `Compass.uol`
+- Cursando: **Java Completo** `(Udemy)`
 - Pronouns: ele/dele
 
 <div align="center">  
