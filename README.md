@@ -10,8 +10,8 @@
 - Pronouns: ele/dele
 
 <div align="center">  
-  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ValmirSGama&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="ValmirSGama github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValmirSGama&layout=compact&hide_border=true&theme=tokyonight" />
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ValmirSGama&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="ValmirSGama github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValmirSGama&layout=compact&hide_border=true&theme=tokyonight"/>
 </div>
 
 <picture>
@@ -19,29 +19,32 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ValmirSGama/ValmirSGama/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ValmirSGama/ValmirSGama/output/github-contribution-grid-snake.svg">
 </picture>
-<br><br>
 
 #### Skills
 
- <div style="display: inline_block"><br>
+ <div style="display: inline_block"><br> 
   <img align="center" alt="Valmir-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Valmir-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Valmir-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Valmir-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Valmir-Linux" height="30" width="40" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img align="center" alt="Valmir-Cloud-AWS" height="30" width="40" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img align="center" alt="Valmir-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+  <img align="center" alt="Valmir-Cloud-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+  <img align="center" alt="Valmir-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/> 
+  <img align="center" alt="Valmir-kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"/>                 
 </div>
 
 ##
 
 #### Estudando Neste Momento:
 
-![GCP](https://img.shields.io/badge/Java-FF8000?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;     
+<img align="center" alt="Valmir-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>   
 
 #### Banco De Dandos:
 
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+<div style="display: inline_block"><br> 
+<img align="center" alt="Valmir-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img align="center" alt="Valmir-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>     
+</div>
 
 #### IDE:
 
