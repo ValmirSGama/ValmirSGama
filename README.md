@@ -5,8 +5,8 @@
 ### Me chamo Valmir  👋
 
 - Fazendo o último semestre de **Análise e Desenvolvimento de Sistemas** `Unicesumar`
-- Estagiei em **DevSecOps AWS-Cloud Pratictioner** `Compass.uol`
-- Cursando: **Java Completo** `(Udemy)`
+- Estagiei em **DevSecOps AWS-Cloud Pratictioner** `Compass Uol`
+- Cursando: **Java Completo** `Udemy`
 - Pronouns: ele/dele
 
 <div align="center">  
