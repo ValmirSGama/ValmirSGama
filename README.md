@@ -5,7 +5,7 @@
 ### Me chamo Valmir  👋
 
 - Fazendo o último semestre de **Análise e Desenvolvimento de Sistemas** `Unicesumar`
-- Estaginado em **DevSecOps AWS-Cloud Pratictioner** `Compass.uol`
+- Estagiei em **DevSecOps AWS-Cloud Pratictioner** `Compass.uol`
 - Cursando: **Java Completo** `(Udemy)`
 - Pronouns: ele/dele
 
@@ -50,9 +50,9 @@
 
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;
+![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 ## Contatos
  
