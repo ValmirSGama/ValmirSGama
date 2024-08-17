@@ -4,9 +4,8 @@
 
 ### Me chamo Valmir  👋
 
-- Fazendo o último semestre de **Análise e Desenvolvimento de Sistemas** `Unicesumar`
-- Estagiei em **DevSecOps AWS-Cloud Pratictioner** `Compass Uol`
-- Cursando: **Java Completo** `Udemy`
+- Formado em **Análise e Desenvolvimento de Sistemas**
+- Me aprofundando em **(Java)**
 - Pronouns: ele/dele
 
 <div align="center">  
@@ -35,18 +34,18 @@
 
 ##
 
-#### Estudando Neste Momento:
+#### Praticando Neste Momento
 
 <img align="center" alt="Valmir-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>   
 
-#### Banco De Dandos:
+#### Banco De Dandos
 
 <div style="display: inline_block"><br> 
 <img align="center" alt="Valmir-postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="center" alt="Valmir-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>     
 </div>
 
-#### IDE:
+#### IDE
 
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;
