@@ -5,7 +5,7 @@
 ### Me chamo Valmir  👋
 
 - Formado em **Análise e Desenvolvimento de Sistemas**
-- Me aprofundando em **(Java)**
+- Desenvolvedor **Back** e **Front-end**
 - Pronouns: ele/dele
 
 <div align="center">  
